@@ -29,4 +29,17 @@ var suma = Double(x) + y
 
 var division = Float (x) / 5
 
-//Asignación Implicita y Explicita 
+//Asignación Implicita y Explicita
+
+
+//Variables Sencillas
+
+var r:Int  = 12
+
+var a:Int = 200
+
+var m:Double = 12.2
+
+ 
+
+
